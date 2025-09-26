@@ -1,0 +1,10 @@
+{
+  "name": "ALCodespaceProjectTemplate Dev Container",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dynamics-smb.al"
+      ]
+    }
+  }
+}

@@ -3,7 +3,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-dynamics-smb.al"
+        "ms-dynamics-smb.al@prerelease"
       ]
     }
   }
